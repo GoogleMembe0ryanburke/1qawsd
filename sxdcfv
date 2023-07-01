@@ -1,0 +1,7 @@
+echo "# 1qawsd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GoogleMembe0ryanburke/1qawsd.git
+git push -u origin main
